@@ -1,0 +1,61 @@
+/* All Credits for the icons go's to joypixels */
+/* Note: These icons are NOT from the version of joypixels that requires a code. All icons are open source below */
+/* All Icons are from: https://github.com/joypixels/pride-emoji-flags/tree/v1.0/svg */
+.pride {
+	display: inline-block;
+    height: 5em;
+    width: 5em;
+    margin: 0 .05em 0 .1em;
+    vertical-align: -0.1em;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 1em 1em;
+}
+.pride-pansexual {
+	background-image: url("https://raw.githubusercontent.com/joypixels/pride-emoji-flags/v1.0/svg/pansexual-flag.svg");
+}
+.pride-agender {
+	background-image: url("https://raw.githubusercontent.com/joypixels/pride-emoji-flags/v1.0/svg/agender-flag.svg");
+}
+.pride-aromantic {
+	background-image: url("https://raw.githubusercontent.com/joypixels/pride-emoji-flags/v1.0/svg/aromantic-flag.svg");
+}
+.pride-asexual {
+	background-image: url("https://raw.githubusercontent.com/joypixels/pride-emoji-flags/v1.0/svg/asexual-flag.svg");
+}
+.pride-bisexual {
+	background-image: url("https://raw.githubusercontent.com/joypixels/pride-emoji-flags/v1.0/svg/bisexual-flag.svg");
+}
+.pride-demisexual {
+	background-image: url("https://raw.githubusercontent.com/joypixels/pride-emoji-flags/v1.0/svg/demisexual-flag.svg");
+}
+.pride-gender-fluid {
+	background-image: url("https://raw.githubusercontent.com/joypixels/pride-emoji-flags/v1.0/svg/gender-fluid-flag.svg");
+}
+.pride-queer {
+	background-image: url("https://github.com/joypixels/pride-emoji-flags/blob/v1.0/svg/gender-queer-flag.svg?raw=true");
+}
+.pride-greysexual {
+	background-image: url("https://github.com/joypixels/pride-emoji-flags/blob/v1.0/svg/greysexual-flag.svg?raw=true");
+}
+.pride-intersex {
+	background-image: url("https://github.com/joypixels/pride-emoji-flags/blob/v1.0/svg/intersex-flag.svg?raw=true");
+}
+.pride-lesbian {
+	background-image: url("https://github.com/joypixels/pride-emoji-flags/blob/v1.0/svg/lesbian-flag.svg?raw=true");	
+}
+.pride-nonbinary {
+	background-image: url("https://github.com/joypixels/pride-emoji-flags/blob/v1.0/svg/nonbinary-flag.svg?raw=true");
+}
+.pride-philadelphia {
+	background-image: url("https://github.com/joypixels/pride-emoji-flags/blob/v1.0/svg/philadelphia-pride-flag.svg?raw=true");
+}
+.pride-polyamory {
+	background-image: url("https://github.com/joypixels/pride-emoji-flags/blob/v1.0/svg/polyamory-flag.svg?raw=true");
+}
+.pride-pride {
+	background-image: url("https://github.com/joypixels/pride-emoji-flags/blob/v1.0/svg/pride-flag.svg?raw=true");
+}
+.pride-transgender {
+	background-image: url("https://github.com/joypixels/pride-emoji-flags/blob/v1.0/svg/transgender-flag.svg?raw=true");
+}
