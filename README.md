@@ -16,3 +16,4 @@ For example you could use the following for a lesbian pride flag
 ```html
 <p><li class="pride pride-lesbian"></li></p>
 ```
+For more usage visit https://interfiber.dev/projects/pride-fonts
