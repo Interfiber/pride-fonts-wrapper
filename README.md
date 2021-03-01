@@ -4,7 +4,7 @@ A CSS wrapper for https://github.com/joypixels/pride-emoji-flags
 ## Installation
 To install pride-fonts you can add its css file via unpkg like below
 ```html
-<link rel="stylesheet" href="https://unpkg.com/pride-fonts@1.0.1/dist/pride-fonts.min.css>
+<link rel="stylesheet" href="https://unpkg.com/pride-fonts@1.0.1/dist/pride-fonts.min.css">
 ```
 
 ## Usage
